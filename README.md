@@ -1,1 +1,1 @@
-## Cancer Image classifica ML
+## Cancer Image classification ML
